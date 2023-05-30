@@ -1,2 +1,18 @@
-
+#button-1{background:blue;
+		 color:white;}
+#button-2{background:white;}
+#button-3{background:green;
+		 color:white;}
+#button-4{background:red;
+		 color:white;}
+#button-5{background:yellow;
+		 color:black;}
+#button-6{background:skyblue;
+		 color:black;}
+#button-7{border:none;
+		 color:black;}
+#button-8{border:none;
+		 background:white;
+		  color:cadetblue;
+		 }
 /* Your CSS Code here. */
